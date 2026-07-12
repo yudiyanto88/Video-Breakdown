@@ -1,0 +1,25 @@
+cycle,type,date,price,fg_raw,fg_sma30,vs_prev
+Cycle A (2018-2022),local_top,2018-03-04,11616,44.0,44.5,
+Cycle A (2018-2022),local_top,2019-06-26,12830,95.0,67.2,
+Cycle A (2018-2022),local_top,2021-04-13,63551,74.0,71.1,
+Cycle A (2018-2022),local_top,2021-11-08,67525,75.0,74.0,
+Cycle B (2022-skrg),local_top,2023-04-14,30496,68.0,62.0,
+Cycle B (2022-skrg),local_top,2023-07-13,31481,57.0,56.5,
+Cycle B (2022-skrg),local_top,2024-03-13,73095,81.0,78.0,
+Cycle B (2022-skrg),local_top,2025-01-21,106188,76.0,70.7,
+Cycle B (2022-skrg),local_top,2025-10-06,124715,71.0,51.2,
+Cycle A (2018-2022),ath_cluster,2018-03-04,11616,44.0,44.5,first
+Cycle A (2018-2022),ath_cluster,2019-06-26,12830,95.0,67.2,HIGHER (tidak diminishing)
+Cycle A (2018-2022),ath_cluster,2021-01-08,40736,93.0,92.2,HIGHER (tidak diminishing)
+Cycle A (2018-2022),ath_cluster,2021-03-13,61186,74.0,79.7,LOWER (diminishing)
+Cycle A (2018-2022),ath_cluster,2021-04-13,63551,74.0,71.1,LOWER (diminishing)
+Cycle A (2018-2022),ath_cluster,2021-11-08,67525,75.0,74.0,HIGHER (tidak diminishing)
+Cycle B (2022-skrg),ath_cluster,2023-04-14,30496,68.0,62.0,first
+Cycle B (2022-skrg),ath_cluster,2023-07-13,31481,57.0,56.5,LOWER (diminishing)
+Cycle B (2022-skrg),ath_cluster,2024-01-08,47081,71.0,70.2,HIGHER (tidak diminishing)
+Cycle B (2022-skrg),ath_cluster,2024-03-13,73095,81.0,78.0,HIGHER (tidak diminishing)
+Cycle B (2022-skrg),ath_cluster,2024-12-17,106169,87.0,80.9,HIGHER (tidak diminishing)
+Cycle B (2022-skrg),ath_cluster,2025-01-21,106188,76.0,70.7,LOWER (diminishing)
+Cycle B (2022-skrg),ath_cluster,2025-05-22,111695,72.0,66.2,LOWER (diminishing)
+Cycle B (2022-skrg),ath_cluster,2025-08-13,123314,73.0,68.9,HIGHER (tidak diminishing)
+Cycle B (2022-skrg),ath_cluster,2025-10-06,124715,71.0,51.2,LOWER (diminishing)
