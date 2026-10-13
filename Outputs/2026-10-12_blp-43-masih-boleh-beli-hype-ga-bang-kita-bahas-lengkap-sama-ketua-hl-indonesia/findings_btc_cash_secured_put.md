@@ -95,3 +95,34 @@ Sensitivitas premi untuk aturan B (strike 0%, 2016–2026): x0,8 −3,0%; x1,0 �
 - Kenapa tidak menang seperti di jendela bear murni (+2 sampai +19%)? Filter baru aktif setelah harga sudah turun 20 sampai 30%, jadi bagian awal penurunan terlewat. Filter juga ikut aktif di koreksi tengah bull (misalnya pertengahan 2021), dan di situ harga lalu naik lagi sehingga put kalah.
 
 **Kesimpulan sementara:** dengan penentu fase berbasis RP dan penurunan dari puncak, jual put hanya menyamai DCA. Ia tidak lebih buruk, tapi juga tidak lebih baik, dan menambah kerumitan serta risiko platform. Uji dengan zona asli (STH RP, AVIV Mean/Upper) belum dilakukan dan butuh `data_master_all_metrics.csv` dari Onchain-Dashboard.
+
+---
+
+## Lanjutan: put saat kondisi K4 (uji PROXY)
+
+**Script:** `analyze_btc_put_k4_proxy.py`
+
+**Batasan:** K4 asli butuh Z1 (harga < STH RP < RP) dan empat kondisi (LTH-MVRV, aSOPR/LTH-SOPR, Supply in Profit, Price/CVDD). Data itu tidak ada di sini. Proxy yang dipakai: **MVRV < 1** (harga di bawah Realized Price). Satu episode = rangkaian hari MVRV<1, jeda di bawah 30 hari digabung, minimal 30 hari. Di akhir episode, sisa kas dibelikan spot.
+
+**Hasil, jumlah BTC dibanding DCA di episode yang sama:**
+
+| Episode | Harga (awal → akhir, min) | Put ATM | Put 5% | Put 10% |
+|---|---|---|---|---|
+| Des 2014 – Okt 2015 | 320 → 275 (min 176) | −2,2% | −1,5% | +3,9% |
+| Nov 2018 – Apr 2019 | 4.792 → 4.138 (min 3.185) | +1,6% | −0,7% | −2,1% |
+| Jun 2022 – Jan 2023 | 22.316 → 18.870 (min 15.758) | +3,6% | +3,8% | +4,6% |
+| (2011–2014, pasar sangat kecil, belum ada options) | | +5 s/d +17% | | |
+
+Premi model saat K4: sekitar 6 sampai 7% per bulan untuk put ATM, karena volatilitas di dasar bear tinggi. Sensitivitas premi (put ATM): 2022 +2,0% sampai +6,9%; 2018 −0,2% sampai +5,3%; 2015 −4,5% sampai +2,5% (pengali 0,8 sampai 1,4).
+
+**Bacaan:**
+- Ini satu-satunya kondisi di mana put **cenderung** lebih baik dari DCA, tapi selisihnya kecil (sekitar −2% sampai +5%) dan tidak konsisten antar episode. n = 3 episode yang relevan, jadi low-confidence.
+- K4 cocok dengan put karena tiga hal bertemu: premi mahal, harga bergerak datar di dekat dasar, dan **terisi adalah hasil yang memang diinginkan**.
+- Risiko terbesar justru di luar model: **risiko pihak ketiga di saat paling buruk.** FTX runtuh November 2022, tepat di tengah episode K4. Jaminan di bursa atau platform options menumpuk risiko pihak ketiga persis saat risiko itu paling tinggi.
+- Saat data berakhir (2026-05-23), MVRV = 1,41, jadi proxy K4 belum aktif.
+
+**Cara pakai yang paling masuk akal (ide, belum diuji dengan aturan tranche K4 asli):**
+- Tranche spot K4 tetap dibeli spot seperti biasa.
+- Tranche yang memang direncanakan menunggu harga lebih rendah diganti dengan put di level tranche itu. Kalau terisi, sama saja dengan rencana. Kalau tidak, dapat premi.
+- Kalau keluar dari zona (harga kembali di atas RP/STH RP), sisa kas langsung dibelikan spot.
+- Hanya jaminan penuh, tanpa margin, dan dana tersebar, tidak semuanya di satu platform.
