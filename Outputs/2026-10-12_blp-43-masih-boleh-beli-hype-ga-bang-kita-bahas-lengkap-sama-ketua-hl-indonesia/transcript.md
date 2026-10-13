@@ -52,7 +52,7 @@
 
 ## 6. Apakah sekarang masih boleh beli?
 
-- Tamu mengaku sempat take profit sebagian lewat posisi options (strike di 70, jatuh tempo 25 September). Sisa tumpukan besarnya tetap dipegang. HYPE sempat turun ke kisaran 50-an sehari sebelumnya, menurut cerita tamu.
+- Tamu menyebut punya posisi options dengan angka 70 dan jatuh tempo 25 September, sambil bilang sisa tumpukannya tetap dipegang. Soal "take profit" tidak jelas di caption (lihat `options_yield_akumulasi.md`). Angka "50-an" yang ia sebut sebagai penurunan sehari sebelumnya tidak cocok dengan harga 94 dan kemungkinan salah terjemah.
 - Jawaban untuk orang yang belum punya posisi: kalau ia tidak punya eksposur sama sekali, ia akan menunggu koreksi. Host menjawab dengan menyebut ini pertanyaan khas ritel, dan tamu menyebut pasti ada fase cooling down, sekitar 10 sampai 15%.
 - Soal short HYPE: keduanya pernah dan sering kena cut loss. Mereka menyebut seorang whale besar yang terus kalah saat short HYPE dan dikabarkan rugi sekitar 40 juta dolar, bahkan sudah menjual hampir semua HYPE spot-nya (sisa sekitar 100 ribu). Keduanya menilai ia kena revenge trading.
 - Strategi tamu sekarang: cash-secured put lewat platform options. Contohnya: harga 94, pasang bid di 80. Kalau harga di atas 80 saat kontrak berakhir, stablecoin kembali utuh dan yield tetap diterima di depan. Kalau di bawah 80, ia membeli di 80 (misalnya harga 75). Syaratnya: ia memang mau beli di level itu. Ia memilih expiry panjang dan strike jauh karena pandangannya netral-bullish.
