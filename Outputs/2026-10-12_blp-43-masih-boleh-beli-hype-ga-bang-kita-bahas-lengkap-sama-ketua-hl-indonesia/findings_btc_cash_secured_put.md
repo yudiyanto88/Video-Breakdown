@@ -64,3 +64,34 @@ BTC naik sangat kuat dalam jangka panjang. Setiap bulan kas menunggu tidak teris
 2. **Kalau mau pakai, pakai hanya di fase turun dari puncak.** Di situ put menang 2 sampai 19% atas DCA. Kesulitannya: kamu harus tahu sedang di fase itu. Framework zona bisa jadi penentunya, tapi itu belum diuji di sini.
 3. **Di zona murah, beli spot langsung.** MVRV switch (spot saat MVRV rendah, put saat tinggi) adalah varian terbaik, tapi tetap kalah tipis (−3 sampai −9%). Artinya, menahan kas di zona mahal pun sudah mahal.
 4. **Strike dekat (0 sampai 5% OTM) lebih baik dari strike jauh** untuk tujuan akumulasi. Strike jauh terasa aman, tapi hasilnya paling buruk karena kas jarang terisi.
+
+---
+
+## Lanjutan: put hanya di fase turun, ditentukan zona (uji PROXY)
+
+**Script:** `analyze_btc_put_zone_proxy.py`
+
+**Batasan:** zona framework asli butuh STH RP dan AVIV, dan dua data itu tidak ada di Coin Metrics community data. Yang bisa dihitung persis hanya Realized Price (RP = harga / MVRV). Jadi zona diganti proxy:
+- **A:** harga ≥ RP (kira-kira Z3 ke atas)
+- **B:** harga ≥ RP **dan** sudah turun ≥20% dari high 365 hari (fase turun dari puncak)
+- **C:** sama dengan B, tapi turun ≥30%
+
+Di luar kondisi itu, semua kas dibelikan spot. Mekanik put sama dengan uji pertama.
+
+**Hasil, jumlah BTC dibanding DCA murni (strike 0% / 5% di bawah harga):**
+
+| Aturan | 2016–2026 | 2016–2018 | 2019–2022 | 2023–2026 | Porsi siklus pakai put |
+|---|---|---|---|---|---|
+| Put terus | −10,7 / −16,8% | −10,9 / −17,2% | −15,3 / −14,2% | −4,9 / −9,7% | 100% |
+| A (≥RP) | −10,1 / −15,5% | −10,9 / −17,2% | −6,0 / −4,9% | −2,8 / −7,7% | 92% |
+| B (≥RP, turun 20%) | −2,5 / −2,8% | −2,7 / −2,9% | −2,7 / −2,8% | +0,3 / +0,6% | 42% |
+| C (≥RP, turun 30%) | **+0,1 / +0,3%** | +0,4 / +0,7% | −1,9 / −2,6% | −0,2 / −0,7% | 28% |
+
+Sensitivitas premi untuk aturan B (strike 0%, 2016–2026): x0,8 −3,0%; x1,0 −2,5%; x1,2 −1,9%; x1,4 −1,4%.
+
+**Bacaan:**
+- Filter zona level saja (A) hampir tidak membantu, karena harga ada di atas RP pada 92% waktu.
+- Filter arah (B/C) menghapus hampir seluruh kerugian, tapi **tidak menghasilkan keunggulan**. Hasil terbaik sekitar 0%, sama dengan DCA.
+- Kenapa tidak menang seperti di jendela bear murni (+2 sampai +19%)? Filter baru aktif setelah harga sudah turun 20 sampai 30%, jadi bagian awal penurunan terlewat. Filter juga ikut aktif di koreksi tengah bull (misalnya pertengahan 2021), dan di situ harga lalu naik lagi sehingga put kalah.
+
+**Kesimpulan sementara:** dengan penentu fase berbasis RP dan penurunan dari puncak, jual put hanya menyamai DCA. Ia tidak lebih buruk, tapi juga tidak lebih baik, dan menambah kerumitan serta risiko platform. Uji dengan zona asli (STH RP, AVIV Mean/Upper) belum dilakukan dan butuh `data_master_all_metrics.csv` dari Onchain-Dashboard.
