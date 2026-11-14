@@ -1,0 +1,5 @@
+cycle,bull_low_date,bull_low_price,peak_date,peak_price,bear_low_date,bear_low_price,bull_log_return,bear_log_drawdown,ratio_reproduced,ratio_claimed_by_presenter
+2013->2015,2011-11-18,2.05,2013-11-29,1156.12,2015-01-14,178.5,6.335,1.868,0.295,0.312
+2017->2018,2015-01-14,178.5,2017-12-16,19538.13,2018-12-14,3281.06,4.696,1.784,0.38,0.384
+2021->2022,2018-12-14,3281.06,2021-11-08,67524.7,2022-11-21,15774.48,3.024,1.454,0.481,0.483
+"current (2022-11 low -> ATH, reproduced)",2022-11-21,15774.48,2025-10-06,124714.85,TBD (bear belum selesai),,2.068,,,

@@ -1,0 +1,6 @@
+scenario,price,gap_pct
+Price 2026-06-08,63029.474609375,0.0
+Verbal claim -5%,59878.00087890625,-5.0
+Verbal claim -7%,58617.411386718755,-7.0
+"Model central case ($55,311)",55311.0,-12.2
+"Model worst case ($43,830)",43830.0,-30.5

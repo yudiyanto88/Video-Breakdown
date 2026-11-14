@@ -1,0 +1,11 @@
+=== DCA Backtest Variants (Insight #1) ===
+variant,start_date,end_date,years,n_contributions,total_contributed_scaled_10k,final_value_scaled_10k,total_return_pct,cagr_simple_pct,xirr_pct,max_dd_pct,max_dd_date,claim_total_return_pct,claim_cagr_pct,claim_max_dd_pct
+Mingguan,2014-01-01,2026-07-15,12.53,655,10000.0,454863.0,4448.6,35.6,55.4,-82.9,2018-12-14,4000,36,83
+Bulanan,2014-01-01,2026-07-15,12.53,151,10000.0,454806.0,4448.1,35.6,55.2,-82.9,2018-12-14,4000,36,83
+
+=== Calmar Ratio per Cycle (Insight #2) ===
+cycle,start,end,years,start_price,end_price,cagr_pct,max_dd_pct,calmar
+S1 2013-2015,2013-01-01,2015-01-14,2.03,13.36,178.5,257.7,-84.6,3.047
+S2 2015-2018,2015-01-15,2018-12-15,3.92,210.05,3290.85,101.9,-83.2,1.225
+S3 2018-2022,2018-12-16,2022-11-21,3.93,3303.16,15774.48,48.8,-76.6,0.637
+S4 2022-now (BELUM SELESAI),2022-11-22,2026-07-15,3.64,16205.82,65097.92,46.5,-53.1,0.875

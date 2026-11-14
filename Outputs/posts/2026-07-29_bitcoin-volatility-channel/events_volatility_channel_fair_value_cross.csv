@@ -1,0 +1,19 @@
+proxy,cross_date,direction,cycle,hold_days_to_next_cross,nearest_k_trigger_date,lead_days_vs_k_trigger,redundant_within_30d
+true_market_mean_price,2011-07-04,down,2013-15,345,2011-06-11,-23,True
+true_market_mean_price,2012-06-13,up,2013-15,307,2012-04-19,-55,False
+true_market_mean_price,2013-07-23,up,2013-15,216,2013-04-11,-103,False
+true_market_mean_price,2014-08-09,down,2013-15,451,2013-12-06,-246,False
+true_market_mean_price,2016-04-12,up,2018-19,664,2015-11-03,-161,False
+true_market_mean_price,2018-07-31,down,2018-19,283,2018-01-11,-201,False
+true_market_mean_price,2019-05-10,up,2018-19,159,2019-05-07,-3,True
+true_market_mean_price,2020-04-27,up,2020 (covid),635,2020-11-26,213,False
+true_market_mean_price,2022-01-23,up,2022,103,2021-11-16,-68,False
+true_market_mean_price,2022-05-06,down,2022,339,2021-11-16,-171,False
+true_market_mean_price,2023-10-21,up,2025-26,833,2024-03-16,147,False
+200_wma,2010-10-07,up,2013-15,366,2010-11-09,33,False
+200_wma,2011-12-22,up,2013-15,1119,2012-04-19,119,False
+200_wma,2015-01-15,up,2013-15,215,2015-11-03,292,False
+200_wma,2015-10-03,up,2013-15,1622,2015-11-03,31,False
+200_wma,2020-03-19,up,2020 (covid),817,2020-11-26,252,False
+200_wma,2022-08-19,down,2022,210,2023-03-01,194,False
+200_wma,2023-10-16,up,2025-26,964,2024-03-16,152,False

@@ -1,0 +1,319 @@
+series,weighting,pctl,mode,threshold,trigger_date,cycle,price,value,nearest_low,days_to_low,hit_60d,max_dd_90d_pct,dd_date,fail_dd20,ret_90d_pct,truncated,scoreable
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2011-10-11,cycle-2011,3.95,0.33374,2011-11-18,-38,True,-48.12,2011-11-18,True,60.08,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2012-03-15,cycle-2011,5.33,0.31568,2011-11-18,118,False,-14.58,2012-03-25,False,11.42,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2014-05-16,cycle-2015,449.17,0.31526,2015-01-14,-243,False,-0.49,2014-05-19,False,13.58,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2014-11-04,cycle-2015,329.68,0.3437,2015-01-14,-71,False,-45.86,2015-01-14,True,-27.54,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2015-02-14,cycle-2015,256.96,0.34433,2015-01-14,31,True,-14.69,2015-04-14,False,-7.53,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2015-05-23,cycle-2015,238.83,0.34849,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2018-06-16,cycle-2018,6587.55,0.27294,2018-12-14,-181,False,-10.22,2018-06-28,False,-1.12,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2018-09-28,cycle-2018,6644.02,0.34416,2018-12-14,-77,False,-50.62,2018-12-14,True,-44.22,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2019-01-05,cycle-2018,3872.16,0.31934,2018-12-14,22,True,-11.39,2019-02-07,False,29.88,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2022-07-18,cycle-2022,22497.15,0.34793,2022-11-21,-126,False,-17.81,2022-09-21,False,-14.38,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2022-10-17,cycle-2022,19548.62,0.30753,2022-11-21,-35,True,-19.31,2022-11-21,False,6.79,False,True
+vdd_mult_ma,VALUE-weighted,5.0,full,0.3496,2026-03-07,cycle-2026,67256.53,0.31725,2022-11-21,1202,False,-8.09,2026-06-05,False,-8.09,False,False
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2014-05-16,cycle-2015,449.17,0.31526,2015-01-14,-243,False,-0.49,2014-05-19,False,13.58,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2014-11-05,cycle-2015,338.87,0.3245,2015-01-14,-70,False,-47.33,2015-01-14,True,-32.67,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2018-04-04,cycle-2018,6894.68,0.3998,2018-12-14,-254,False,-14.22,2018-06-28,False,-5.29,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2018-07-04,cycle-2018,6605.47,0.28078,2018-12-14,-163,False,-6.46,2018-08-10,False,-1.03,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2018-10-03,cycle-2018,6522.59,0.33497,2018-12-14,-72,False,-49.7,2018-12-14,True,-39.87,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2019-01-05,cycle-2018,3872.16,0.31934,2018-12-14,22,True,-11.39,2019-02-07,False,29.88,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2022-07-17,cycle-2022,20787.27,0.36184,2022-11-21,-127,False,-11.05,2022-09-21,False,-8.28,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2022-10-16,cycle-2022,19262.3,0.27127,2022-11-21,-36,True,-18.11,2022-11-21,False,8.79,False,True
+vdd_mult_ma,VALUE-weighted,5.0,trailing,trailing p5,2026-03-01,cycle-2026,65786.1,0.41392,2022-11-21,1196,False,0.29,2026-03-08,False,12.34,False,False
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2011-10-08,cycle-2011,4.01,0.42924,2011-11-18,-41,True,-48.84,2011-11-18,True,67.1,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2012-01-07,cycle-2011,6.81,0.37692,2011-11-18,50,True,-37.92,2012-02-18,True,-27.35,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2012-04-08,cycle-2011,4.79,0.43008,2011-11-18,142,False,0.69,2012-04-10,False,41.35,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2014-05-09,cycle-2015,454.36,0.41744,2015-01-14,-250,False,-3.69,2014-05-11,False,29.23,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2014-10-21,cycle-2015,384.0,0.43004,2015-01-14,-85,False,-53.52,2015-01-14,True,-43.67,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2015-02-08,cycle-2015,224.04,0.42649,2015-01-14,25,True,-2.16,2015-04-14,False,8.22,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2015-05-23,cycle-2015,238.83,0.34849,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2018-04-02,cycle-2018,7165.64,0.42184,2018-12-14,-256,False,-17.47,2018-06-28,False,-11.52,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2018-07-02,cycle-2018,6604.48,0.27841,2018-12-14,-165,False,-6.45,2018-08-10,False,0.33,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2018-10-01,cycle-2018,6610.04,0.32426,2018-12-14,-74,False,-50.36,2018-12-14,True,-40.69,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2019-01-04,cycle-2018,3901.67,0.38756,2018-12-14,21,True,-12.06,2019-02-07,False,25.73,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2020-04-16,cycle-2018,7101.26,0.42376,2018-12-14,489,False,-2.83,2020-04-21,False,29.5,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2022-07-17,cycle-2022,20787.27,0.36184,2022-11-21,-127,False,-11.05,2022-09-21,False,-8.28,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2022-10-16,cycle-2022,19262.3,0.27127,2022-11-21,-36,True,-18.11,2022-11-21,False,8.79,False,True
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2026-02-22,cycle-2026,67658.01,0.42599,2022-11-21,1189,False,-5.28,2026-02-24,False,13.28,False,False
+vdd_mult_ma,VALUE-weighted,10.0,full,0.4309,2026-05-24,cycle-2026,77066.19,0.34823,2022-11-21,1280,False,-24.14,2026-06-30,True,-15.53,True,False
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2014-05-06,cycle-2015,429.24,0.44508,2015-01-14,-253,False,1.94,2014-05-11,False,36.65,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2014-10-20,cycle-2015,380.72,0.43608,2015-01-14,-86,False,-53.12,2015-01-14,True,-44.51,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2015-02-10,cycle-2015,220.9,0.41304,2015-01-14,27,True,-0.77,2015-04-14,False,9.61,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2015-05-23,cycle-2015,238.83,0.34849,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2018-03-27,cycle-2018,7928.23,0.49685,2018-12-14,-262,False,-22.58,2018-06-22,True,-20.44,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2018-06-26,cycle-2018,6117.78,0.25401,2018-12-14,-171,False,-3.33,2018-06-28,False,7.85,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2018-09-25,cycle-2018,6453.05,0.42355,2018-12-14,-80,False,-49.15,2018-12-14,True,-36.27,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2019-01-05,cycle-2018,3872.16,0.31934,2018-12-14,22,True,-11.39,2019-02-07,False,29.88,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2022-07-17,cycle-2022,20787.27,0.36184,2022-11-21,-127,False,-11.05,2022-09-21,False,-8.28,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2022-10-16,cycle-2022,19262.3,0.27127,2022-11-21,-36,True,-18.11,2022-11-21,False,8.79,False,True
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2026-01-09,cycle-2026,90542.01,0.53326,2022-11-21,1145,False,-30.6,2026-02-05,True,-20.7,False,False
+vdd_mult_ma,VALUE-weighted,10.0,trailing,trailing p10,2026-04-10,cycle-2026,72973.54,0.33439,2022-11-21,1236,False,-19.89,2026-06-30,False,-13.16,False,False
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2011-08-12,cycle-2011,9.46,0.17186,2011-11-18,-98,False,-76.01,2011-10-19,True,-69.84,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2011-11-11,cycle-2011,3.08,0.11462,2011-11-18,-7,True,-33.39,2011-11-18,True,89.75,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2012-02-17,cycle-2011,4.38,0.17741,2011-11-18,91,False,-3.6,2012-02-18,False,16.3,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2014-04-12,cycle-2015,422.89,0.12651,2015-01-14,-277,False,-1.32,2014-04-13,False,50.39,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2014-09-13,cycle-2015,478.24,0.18332,2015-01-14,-123,False,-33.16,2014-10-05,True,-26.29,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2014-12-14,cycle-2015,354.06,0.18199,2015-01-14,-31,True,-49.59,2015-01-14,True,-20.15,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2015-03-29,cycle-2015,242.65,0.13115,2015-01-14,74,False,-9.67,2015-04-14,False,3.64,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2018-05-26,cycle-2018,7394.96,0.10766,2018-12-14,-202,False,-20.02,2018-06-28,True,-9.29,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2018-09-01,cycle-2018,7184.45,0.16975,2018-12-14,-104,False,-46.72,2018-11-26,True,-43.89,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2018-12-02,cycle-2018,4189.1,0.11071,2018-12-14,-12,True,-21.68,2018-12-14,True,-7.01,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2019-03-03,cycle-2018,3877.17,0.13163,2018-12-14,79,False,-2.08,2019-03-04,False,120.71,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2019-10-13,cycle-2018,8297.35,0.13723,2018-12-14,303,False,-17.39,2019-12-17,False,-3.29,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2020-04-05,cycle-2018,6899.46,0.16963,2018-12-14,478,False,-0.65,2020-04-15,False,33.34,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2021-07-10,cycle-2022,33537.61,0.16918,2022-11-21,-499,False,-11.03,2021-07-20,False,60.85,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2022-01-02,cycle-2022,47319.89,0.16282,2022-11-21,-323,False,-25.83,2022-01-22,True,-3.17,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2022-04-16,cycle-2022,40385.84,0.15363,2022-11-21,-219,False,-53.02,2022-06-18,True,-48.44,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2022-07-16,cycle-2022,21209.93,0.11481,2022-11-21,-128,False,-12.82,2022-09-21,False,-9.57,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2022-10-15,cycle-2022,19066.49,0.09594,2022-11-21,-37,True,-17.27,2022-11-21,False,4.53,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2024-08-17,cycle-2022,59506.55,0.17662,2022-11-21,635,False,-9.26,2024-09-06,False,53.05,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2025-03-08,cycle-2026,86293.86,0.16157,2022-11-21,838,False,-11.62,2025-04-08,False,20.98,False,True
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2025-11-09,cycle-2026,104725.54,0.16575,2022-11-21,1084,False,-40.0,2026-02-05,True,-33.86,False,False
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2026-02-14,cycle-2026,69815.93,0.13304,2022-11-21,1181,False,-8.2,2026-02-24,False,13.25,False,False
+vdd_multiple,VALUE-weighted,5.0,full,0.1849,2026-05-16,cycle-2026,78176.7,0.16292,2022-11-21,1272,False,-25.22,2026-06-30,True,-16.73,True,False
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2014-04-12,cycle-2015,422.89,0.12651,2015-01-14,-277,False,-1.32,2014-04-13,False,50.39,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2014-09-27,cycle-2015,399.81,0.15213,2015-01-14,-109,False,-21.95,2014-12-18,True,-17.96,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2014-12-27,cycle-2015,316.24,0.12715,2015-01-14,-18,True,-43.56,2015-01-14,True,-21.87,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2015-03-29,cycle-2015,242.65,0.13115,2015-01-14,74,False,-9.67,2015-04-14,False,3.64,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2018-05-12,cycle-2018,8576.45,0.20866,2018-12-14,-216,False,-31.04,2018-06-28,True,-27.96,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2018-08-12,cycle-2018,6361.38,0.10126,2018-12-14,-124,False,-2.05,2018-08-14,False,1.05,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2018-11-11,cycle-2018,6453.84,0.1675,2018-12-14,-33,True,-49.16,2018-12-14,True,-42.87,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2019-02-10,cycle-2018,3712.26,0.14822,2018-12-14,58,True,-3.45,2019-02-16,False,94.32,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2019-09-22,cycle-2018,10085.13,0.19037,2018-12-14,282,False,-32.04,2019-12-17,True,-26.32,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2020-01-01,cycle-2018,7440.92,0.19294,2018-12-14,383,False,-34.99,2020-03-12,True,-13.7,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2020-04-05,cycle-2018,6899.46,0.16963,2018-12-14,478,False,-0.65,2020-04-15,False,33.34,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2021-07-10,cycle-2022,33537.61,0.16918,2022-11-21,-499,False,-11.03,2021-07-20,False,60.85,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2022-01-02,cycle-2022,47319.89,0.16282,2022-11-21,-323,False,-25.83,2022-01-22,True,-3.17,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2022-04-16,cycle-2022,40385.84,0.15363,2022-11-21,-219,False,-53.02,2022-06-18,True,-48.44,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2022-07-16,cycle-2022,21209.93,0.11481,2022-11-21,-128,False,-12.82,2022-09-21,False,-9.57,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2022-10-15,cycle-2022,19066.49,0.09594,2022-11-21,-37,True,-17.27,2022-11-21,False,4.53,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2024-06-29,cycle-2022,60898.95,0.20937,2022-11-21,586,False,-11.33,2024-09-06,False,8.05,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2025-02-16,cycle-2026,96157.6,0.20924,2022-11-21,818,False,-20.68,2025-04-08,True,7.28,False,True
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2025-11-09,cycle-2026,104725.54,0.16575,2022-11-21,1084,False,-40.0,2026-02-05,True,-33.86,False,False
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2026-02-14,cycle-2026,69815.93,0.13304,2022-11-21,1181,False,-8.2,2026-02-24,False,13.25,False,False
+vdd_multiple,VALUE-weighted,5.0,trailing,trailing p5,2026-05-16,cycle-2026,78176.7,0.16292,2022-11-21,1272,False,-25.22,2026-06-30,True,-16.73,True,False
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2011-07-21,cycle-2011,13.61,0.23516,2011-11-18,-120,False,-83.32,2011-10-19,True,-83.32,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2011-10-20,cycle-2011,2.35,0.04972,2011-11-18,-29,True,-12.84,2011-11-18,False,151.66,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2012-01-21,cycle-2011,6.18,0.24212,2011-11-18,64,False,-31.61,2012-02-18,True,-13.44,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2012-04-27,cycle-2011,5.11,0.19053,2011-11-18,161,False,-5.55,2012-05-10,False,74.43,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2014-04-04,cycle-2015,446.99,0.18602,2015-01-14,-285,False,-18.54,2014-04-10,False,44.22,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2014-07-06,cycle-2015,637.27,0.24611,2015-01-14,-192,False,-48.48,2014-10-04,True,-48.48,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2014-10-11,cycle-2015,360.92,0.11233,2015-01-14,-95,False,-26.82,2015-01-04,True,-19.27,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2015-01-17,cycle-2015,200.64,0.14648,2015-01-14,3,True,5.29,2015-01-18,False,10.98,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2015-04-18,cycle-2015,223.46,0.11827,2015-01-14,94,False,-1.55,2015-04-26,False,25.32,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2015-09-12,cycle-2015,235.55,0.18981,2015-01-14,241,False,-3.69,2015-09-21,False,93.21,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2018-04-02,cycle-2018,7165.64,0.21278,2018-12-14,-256,False,-17.47,2018-06-28,False,-11.52,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2018-07-05,cycle-2018,6584.39,0.15298,2018-12-14,-162,False,-6.16,2018-08-10,False,-0.94,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2018-10-05,cycle-2018,6628.57,0.18469,2018-12-14,-70,False,-50.5,2018-12-14,True,-41.77,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2019-01-04,cycle-2018,3901.67,0.19502,2018-12-14,21,True,-12.06,2019-02-07,False,25.73,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2019-09-22,cycle-2018,10085.13,0.19037,2018-12-14,282,False,-32.04,2019-12-17,True,-26.32,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2020-01-01,cycle-2018,7440.92,0.19294,2018-12-14,383,False,-34.99,2020-03-12,True,-13.7,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2020-04-04,cycle-2018,6962.81,0.24435,2018-12-14,477,False,-1.55,2020-04-15,False,30.37,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2020-07-05,cycle-2018,9084.22,0.20562,2018-12-14,569,False,0.54,2020-07-16,False,16.21,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2021-06-12,cycle-2022,35538.95,0.19659,2022-11-21,-527,False,-16.04,2021-07-20,False,26.33,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2021-09-25,cycle-2022,42722.36,0.1469,2022-11-21,-422,False,-3.94,2021-09-28,False,18.96,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2022-01-02,cycle-2022,47319.89,0.16282,2022-11-21,-323,False,-25.83,2022-01-22,True,-3.17,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2022-04-09,cycle-2022,42768.69,0.2341,2022-11-21,-226,False,-55.64,2022-06-18,True,-49.5,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2022-07-09,cycle-2022,21583.84,0.21051,2022-11-21,-135,False,-14.33,2022-09-21,False,-9.5,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2022-10-08,cycle-2022,19415.97,0.24338,2022-11-21,-44,True,-18.76,2022-11-21,False,-12.7,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2023-01-22,cycle-2022,22718.13,0.23208,2022-11-21,62,False,-11.02,2023-03-10,False,22.55,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2023-05-06,cycle-2022,28933.3,0.24104,2022-11-21,166,False,-13.0,2023-06-14,False,0.56,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2023-08-05,cycle-2022,29072.43,0.24673,2022-11-21,257,False,-13.39,2023-09-11,False,19.56,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2024-06-16,cycle-2022,66678.5,0.23357,2022-11-21,573,False,-19.02,2024-09-06,False,-9.98,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2024-10-05,cycle-2022,62073.02,0.22363,2022-11-21,684,False,-2.87,2024-10-10,False,58.11,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2025-02-16,cycle-2026,96157.6,0.20924,2022-11-21,818,False,-20.68,2025-04-08,True,7.28,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2025-06-14,cycle-2026,105459.66,0.24039,2022-11-21,936,False,-4.15,2025-06-22,False,10.07,False,True
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2025-11-02,cycle-2026,110576.71,0.22907,2022-11-21,1077,False,-28.86,2026-01-31,True,-28.86,False,False
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2026-02-08,cycle-2026,70339.05,0.23774,2022-11-21,1175,False,-8.89,2026-02-24,False,14.81,False,False
+vdd_multiple,VALUE-weighted,10.0,full,0.2486,2026-05-15,cycle-2026,79064.2,0.2397,2022-11-21,1271,False,-26.06,2026-06-30,True,-17.66,True,False
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2014-04-04,cycle-2015,446.99,0.18602,2015-01-14,-285,False,-18.54,2014-04-10,False,44.22,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2014-07-08,cycle-2015,625.7,0.17308,2015-01-14,-190,False,-48.91,2014-10-05,True,-47.71,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2014-10-11,cycle-2015,360.92,0.11233,2015-01-14,-95,False,-26.82,2015-01-04,True,-19.27,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2015-01-17,cycle-2015,200.64,0.14648,2015-01-14,3,True,5.29,2015-01-18,False,10.98,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2015-04-18,cycle-2015,223.46,0.11827,2015-01-14,94,False,-1.55,2015-04-26,False,25.32,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2015-09-12,cycle-2015,235.55,0.18981,2015-01-14,241,False,-3.69,2015-09-21,False,93.21,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2018-03-23,cycle-2018,9026.57,0.25349,2018-12-14,-266,False,-29.65,2018-06-13,True,-25.45,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2018-06-22,cycle-2018,6138.42,0.19185,2018-12-14,-175,False,-3.65,2018-06-28,False,6.16,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2018-09-22,cycle-2018,6722.08,0.17845,2018-12-14,-83,False,-51.19,2018-12-14,True,-41.78,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2018-12-22,cycle-2018,4058.54,0.12095,2018-12-14,8,True,-15.46,2019-02-07,False,-1.97,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2019-03-23,cycle-2018,4008.89,0.2097,2018-12-14,99,False,-2.06,2019-03-26,False,152.01,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2019-08-18,cycle-2018,10431.56,0.27555,2018-12-14,247,False,-28.54,2019-10-24,True,-16.36,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2019-11-17,cycle-2018,8736.23,0.19969,2018-12-14,338,False,-21.54,2019-12-17,True,13.32,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2020-03-21,cycle-2018,6373.71,0.23726,2018-12-14,463,False,-7.39,2020-03-29,False,45.92,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2020-07-05,cycle-2018,9084.22,0.20562,2018-12-14,569,False,0.54,2020-07-16,False,16.21,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2021-05-29,cycle-2022,34612.9,0.25459,2022-11-21,-541,False,-13.8,2021-07-20,False,41.81,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2021-09-25,cycle-2022,42722.36,0.1469,2022-11-21,-422,False,-3.94,2021-09-28,False,18.96,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2022-01-02,cycle-2022,47319.89,0.16282,2022-11-21,-323,False,-25.83,2022-01-22,True,-3.17,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2022-04-09,cycle-2022,42768.69,0.2341,2022-11-21,-226,False,-55.64,2022-06-18,True,-49.5,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2022-07-09,cycle-2022,21583.84,0.21051,2022-11-21,-135,False,-14.33,2022-09-21,False,-9.5,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2022-10-08,cycle-2022,19415.97,0.24338,2022-11-21,-44,True,-18.76,2022-11-21,False,-12.7,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2023-01-22,cycle-2022,22718.13,0.23208,2022-11-21,62,False,-11.02,2023-03-10,False,22.55,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2023-05-06,cycle-2022,28933.3,0.24104,2022-11-21,166,False,-13.0,2023-06-14,False,0.56,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2023-08-05,cycle-2022,29072.43,0.24673,2022-11-21,257,False,-13.39,2023-09-11,False,19.56,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2024-06-16,cycle-2022,66678.5,0.23357,2022-11-21,573,False,-19.02,2024-09-06,False,-9.98,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2024-09-22,cycle-2022,63595.09,0.26204,2022-11-21,671,False,-5.19,2024-10-10,False,52.9,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2025-02-16,cycle-2026,96157.6,0.20924,2022-11-21,818,False,-20.68,2025-04-08,True,7.28,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2025-06-14,cycle-2026,105459.66,0.24039,2022-11-21,936,False,-4.15,2025-06-22,False,10.07,False,True
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2025-11-02,cycle-2026,110576.71,0.22907,2022-11-21,1077,False,-28.86,2026-01-31,True,-28.86,False,False
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2026-02-08,cycle-2026,70339.05,0.23774,2022-11-21,1175,False,-8.89,2026-02-24,False,14.81,False,False
+vdd_multiple,VALUE-weighted,10.0,trailing,trailing p10,2026-05-15,cycle-2026,79064.2,0.2397,2022-11-21,1271,False,-26.06,2026-06-30,True,-17.66,True,False
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2011-07-28,cycle-2011,13.49,0.28795,2011-11-18,-113,False,-83.17,2011-10-19,True,-79.45,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2011-10-27,cycle-2011,3.04,0.22643,2011-11-18,-22,True,-32.56,2011-11-18,True,89.98,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2012-02-04,cycle-2011,5.87,0.28968,2011-11-18,78,False,-28.03,2012-02-18,True,-13.65,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2012-06-30,cycle-2011,6.7,0.27404,2011-11-18,225,False,-3.63,2012-07-03,False,84.85,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2012-11-25,cycle-2011,12.55,0.29261,2011-11-18,373,False,-3.31,2012-11-26,False,137.56,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2014-05-05,cycle-2015,431.85,0.29364,2015-01-14,-254,False,-0.6,2014-05-06,False,35.92,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2014-08-04,cycle-2015,586.57,0.26307,2015-01-14,-163,False,-45.5,2014-10-05,True,-44.77,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2015-02-15,cycle-2015,235.56,0.2929,2015-01-14,32,True,-6.94,2015-04-14,False,0.21,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2015-05-23,cycle-2015,238.83,0.21605,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2015-09-26,cycle-2015,234.32,0.29272,2015-01-14,255,False,-0.65,2015-09-27,False,94.55,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2018-06-16,cycle-2018,6587.55,0.26747,2018-12-14,-181,False,-10.22,2018-06-28,False,-1.12,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2020-04-26,cycle-2018,7677.2,0.2921,2018-12-14,499,False,0.27,2020-04-27,False,26.43,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2022-08-20,cycle-2022,21143.94,0.2788,2022-11-21,-93,False,-24.74,2022-11-09,True,-21.06,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2023-02-25,cycle-2022,23163.05,0.27876,2022-11-21,96,False,-12.73,2023-03-10,False,15.37,False,True
+sacdd_ma30,unit-weighted,5.0,full,0.2938,2023-08-27,cycle-2022,26103.66,0.29023,2022-11-21,279,False,-3.54,2023-09-11,False,44.86,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2014-05-10,cycle-2015,457.19,0.24339,2015-01-14,-249,False,-4.29,2014-05-11,False,29.09,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2015-05-23,cycle-2015,238.83,0.21605,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2018-06-16,cycle-2018,6587.55,0.26747,2018-12-14,-181,False,-10.22,2018-06-28,False,-1.12,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2020-04-16,cycle-2018,7101.26,0.3226,2018-12-14,489,False,-2.83,2020-04-21,False,29.5,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2021-07-11,cycle-2022,34231.31,0.30999,2022-11-21,-498,False,-12.84,2021-07-20,False,60.41,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2022-08-18,cycle-2022,23203.14,0.33813,2022-11-21,-95,False,-31.42,2022-11-09,True,-28.19,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2023-02-15,cycle-2022,24323.52,0.34037,2022-11-21,86,False,-16.9,2023-03-10,False,11.19,False,True
+sacdd_ma30,unit-weighted,5.0,trailing,trailing p5,2023-08-27,cycle-2022,26103.66,0.29023,2022-11-21,279,False,-3.54,2023-09-11,False,44.86,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2011-07-27,cycle-2011,13.89,0.32214,2011-11-18,-114,False,-83.66,2011-10-19,True,-80.11,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2011-10-26,cycle-2011,2.77,0.22393,2011-11-18,-23,True,-26.04,2011-11-18,True,127.08,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2012-01-25,cycle-2011,5.78,0.32241,2011-11-18,68,False,-26.81,2012-02-18,True,-11.63,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2012-06-16,cycle-2011,6.4,0.3216,2011-11-18,211,False,-2.9,2012-06-17,False,83.61,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2012-11-20,cycle-2011,11.71,0.32121,2011-11-18,368,False,0.36,2012-11-21,False,130.23,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2014-05-03,cycle-2015,438.72,0.31636,2015-01-14,-256,False,-2.16,2014-05-06,False,35.56,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2014-08-02,cycle-2015,588.87,0.24993,2015-01-14,-165,False,-45.71,2014-10-05,True,-42.81,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2014-11-05,cycle-2015,338.87,0.30559,2015-01-14,-70,False,-47.33,2015-01-14,True,-32.67,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2015-02-13,cycle-2015,236.21,0.31748,2015-01-14,30,True,-7.2,2015-04-14,False,0.34,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2015-05-15,cycle-2015,237.62,0.32206,2015-01-14,121,False,-6.27,2015-06-01,False,11.42,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2015-09-25,cycle-2015,235.42,0.30293,2015-01-14,254,False,-1.11,2015-09-27,False,93.78,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2018-04-06,cycle-2018,6724.54,0.32315,2018-12-14,-252,False,-12.05,2018-06-28,False,-2.08,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2018-07-06,cycle-2018,6648.61,0.30641,2018-12-14,-161,False,-7.07,2018-08-10,False,-0.87,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2018-10-13,cycle-2018,6354.35,0.31092,2018-12-14,-62,False,-48.37,2018-12-14,True,-41.5,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2019-02-15,cycle-2018,3653.17,0.32421,2018-12-14,63,False,-1.89,2019-02-16,False,115.72,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2020-04-16,cycle-2018,7101.26,0.3226,2018-12-14,489,False,-2.83,2020-04-21,False,29.5,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2021-07-11,cycle-2022,34231.31,0.30999,2022-11-21,-498,False,-12.84,2021-07-20,False,60.41,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2022-08-20,cycle-2022,21143.94,0.2788,2022-11-21,-93,False,-24.74,2022-11-09,True,-21.06,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2023-02-18,cycle-2022,24635.53,0.32058,2022-11-21,89,False,-17.95,2023-03-10,False,9.18,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2023-08-27,cycle-2022,26103.66,0.29023,2022-11-21,279,False,-3.54,2023-09-11,False,44.86,False,True
+sacdd_ma30,unit-weighted,10.0,full,0.3262,2026-03-15,cycle-2026,72805.71,0.32051,2022-11-21,1210,False,-16.47,2026-06-06,False,-11.56,False,False
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2014-05-06,cycle-2015,429.24,0.27878,2015-01-14,-253,False,1.94,2014-05-11,False,36.65,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2015-04-12,cycle-2015,236.69,0.28155,2015-01-14,88,False,-7.39,2015-04-14,False,23.91,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2015-09-27,cycle-2015,232.8,0.287,2015-01-14,256,False,1.57,2015-09-30,False,79.17,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2018-04-08,cycle-2018,7088.79,0.31524,2018-12-14,-250,False,-16.57,2018-06-28,False,-4.21,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2018-07-08,cycle-2018,6721.52,0.30587,2018-12-14,-159,False,-8.07,2018-08-10,False,-1.84,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2018-10-13,cycle-2018,6354.35,0.31092,2018-12-14,-62,False,-48.37,2018-12-14,True,-41.5,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2019-10-11,cycle-2018,8276.36,0.35753,2018-12-14,301,False,-17.18,2019-12-17,False,-2.36,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2020-04-14,cycle-2018,7092.61,0.36029,2018-12-14,487,False,-3.35,2020-04-15,False,30.26,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2021-07-04,cycle-2022,35318.68,0.35785,2022-11-21,-505,False,-15.52,2021-07-20,False,35.01,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2022-08-18,cycle-2022,23203.14,0.33813,2022-11-21,-95,False,-31.42,2022-11-09,True,-28.19,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2023-02-12,cycle-2022,21790.25,0.36223,2022-11-21,83,False,-7.23,2023-03-10,False,22.98,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2023-08-27,cycle-2022,26103.66,0.29023,2022-11-21,279,False,-3.54,2023-09-11,False,44.86,False,True
+sacdd_ma30,unit-weighted,10.0,trailing,trailing p10,2026-03-08,cycle-2026,65974.55,0.3621,2022-11-21,1203,False,-7.83,2026-06-06,False,-7.83,False,False
+sacdd_ma900,unit-weighted,5.0,full,0.4622,2013-01-01,cycle-2015,13.36,0.40585,2011-11-18,410,False,-0.46,2013-01-02,False,678.55,False,True
+sacdd_ma900,unit-weighted,5.0,full,0.4622,2013-04-02,cycle-2015,118.08,0.44998,2011-11-18,501,False,-41.91,2013-04-16,True,-10.95,False,True
+sacdd_ma900,unit-weighted,5.0,full,0.4622,2016-07-26,cycle-2015,652.01,0.4621,2015-01-14,559,False,-17.48,2016-08-02,False,0.75,False,True
+sacdd_ma900,unit-weighted,5.0,full,0.4622,2016-10-25,cycle-2015,661.08,0.4417,2015-01-14,650,False,2.88,2016-10-26,False,39.47,False,True
+sacdd_ma900,unit-weighted,5.0,trailing,trailing p5,2016-08-25,cycle-2015,577.26,0.43858,2015-01-14,589,False,-0.92,2016-08-27,False,30.13,False,True
+sacdd_ma900,unit-weighted,5.0,trailing,trailing p5,2023-06-24,cycle-2022,30547.25,0.55972,2022-11-21,215,False,-17.57,2023-09-11,False,-12.94,False,True
+sacdd_ma900,unit-weighted,5.0,trailing,trailing p5,2023-09-23,cycle-2022,26605.38,0.51308,2022-11-21,306,False,-1.3,2023-09-26,False,65.49,False,True
+sacdd_ma900,unit-weighted,5.0,trailing,trailing p5,2023-12-23,cycle-2022,43761.5,0.50085,2022-11-21,397,False,-9.59,2024-01-22,False,45.86,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2013-01-01,cycle-2015,13.36,0.40585,2011-11-18,410,False,-0.46,2013-01-02,False,678.55,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2013-04-02,cycle-2015,118.08,0.44998,2011-11-18,501,False,-41.91,2013-04-16,True,-10.95,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2013-07-17,cycle-2015,97.88,0.48776,2015-01-14,-546,False,-8.6,2013-07-20,False,55.31,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2015-10-11,cycle-2015,248.22,0.48791,2015-01-14,270,False,-0.81,2015-10-12,False,81.14,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2016-05-13,cycle-2015,457.06,0.48511,2015-01-14,485,False,-4.43,2016-05-19,False,29.26,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2016-08-12,cycle-2015,590.34,0.46308,2015-01-14,576,False,-3.55,2016-08-15,False,21.99,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2016-11-11,cycle-2015,722.39,0.44511,2015-01-14,667,False,-2.18,2016-11-13,False,38.59,False,True
+sacdd_ma900,unit-weighted,10.0,full,0.4879,2017-02-10,cycle-2018,994.98,0.47447,2018-12-14,-672,False,-5.86,2017-03-24,False,85.75,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2016-05-13,cycle-2015,457.06,0.48511,2015-01-14,485,False,-4.43,2016-05-19,False,29.26,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2016-08-12,cycle-2015,590.34,0.46308,2015-01-14,576,False,-3.55,2016-08-15,False,21.99,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2016-11-12,cycle-2015,711.32,0.4428,2015-01-14,668,False,-0.66,2016-11-13,False,39.88,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2023-06-07,cycle-2022,26613.17,0.57972,2022-11-21,198,False,-5.41,2023-06-14,False,-3.05,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2023-09-06,cycle-2022,25771.46,0.52201,2022-11-21,289,False,-2.3,2023-09-11,False,71.15,False,True
+sacdd_ma900,unit-weighted,10.0,trailing,trailing p10,2023-12-06,cycle-2022,43781.69,0.49792,2022-11-21,380,False,-9.63,2024-01-22,False,45.89,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2011-08-19,cycle-2011,11.65,0.48477,2011-11-18,-91,False,-81.07,2011-11-14,True,-80.68,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2014-05-05,cycle-2015,431.85,0.48801,2015-01-14,-254,False,-0.6,2014-05-06,False,35.92,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2014-08-04,cycle-2015,586.57,0.45012,2015-01-14,-163,False,-45.5,2014-10-05,True,-44.77,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2018-03-10,cycle-2018,8957.53,0.46686,2018-12-14,-279,False,-24.93,2018-04-06,True,-14.83,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2018-06-09,cycle-2018,7532.44,0.42603,2018-12-14,-188,False,-21.48,2018-06-28,True,-14.25,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2018-09-28,cycle-2018,6644.02,0.48732,2018-12-14,-77,False,-50.62,2018-12-14,True,-44.22,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2021-07-03,cycle-2022,34685.09,0.47528,2022-11-21,-506,False,-13.98,2021-07-20,False,38.8,False,True
+cdd_mult_ma,unit-weighted,5.0,full,0.4881,2026-03-07,cycle-2026,67256.53,0.46538,2022-11-21,1202,False,-8.09,2026-06-05,False,-8.09,False,False
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2014-01-24,cycle-2015,784.03,0.59078,2015-01-14,-355,False,-53.56,2014-04-10,True,-36.06,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2014-04-25,cycle-2015,464.49,0.6252,2015-01-14,-264,False,-7.61,2014-04-27,False,29.93,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2014-07-25,cycle-2015,600.1,0.47426,2015-01-14,-173,False,-46.73,2014-10-05,True,-40.33,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2018-03-07,cycle-2018,10030.12,0.56028,2018-12-14,-282,False,-32.96,2018-04-06,True,-23.99,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2018-06-06,cycle-2018,7628.55,0.45104,2018-12-14,-191,False,-22.47,2018-06-28,True,-3.47,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2022-08-21,cycle-2022,21517.76,0.50095,2022-11-21,-92,False,-26.05,2022-11-09,True,-22.42,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2023-02-26,cycle-2022,23557.22,0.5215,2022-11-21,97,False,-14.19,2023-03-10,False,14.07,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2024-09-06,cycle-2022,53997.96,0.56888,2022-11-21,655,False,0.37,2024-09-07,False,79.73,False,True
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2026-01-09,cycle-2026,90542.01,0.60968,2022-11-21,1145,False,-30.6,2026-02-05,True,-20.7,False,False
+cdd_mult_ma,unit-weighted,5.0,trailing,trailing p5,2026-04-10,cycle-2026,72973.54,0.47852,2022-11-21,1236,False,-19.89,2026-06-30,False,-13.16,False,False
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2011-08-17,cycle-2011,10.95,0.54258,2011-11-18,-93,False,-79.85,2011-11-14,True,-78.72,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2014-01-26,cycle-2015,814.97,0.56078,2015-01-14,-353,False,-55.32,2014-04-10,True,-43.6,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2014-05-01,cycle-2015,458.81,0.57824,2015-01-14,-258,False,-6.44,2014-05-06,False,23.63,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2014-07-31,cycle-2015,579.83,0.42904,2015-01-14,-167,False,-44.87,2014-10-05,True,-42.5,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2014-11-05,cycle-2015,338.87,0.55665,2015-01-14,-70,False,-47.33,2015-01-14,True,-32.67,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2015-05-23,cycle-2015,238.83,0.56172,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2018-03-07,cycle-2018,10030.12,0.56028,2018-12-14,-282,False,-32.96,2018-04-06,True,-23.99,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2018-06-06,cycle-2018,7628.55,0.45104,2018-12-14,-191,False,-22.47,2018-06-28,True,-3.47,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2018-09-26,cycle-2018,6475.7,0.54292,2018-12-14,-79,False,-49.33,2018-12-14,True,-40.21,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2019-02-15,cycle-2018,3653.17,0.5663,2018-12-14,63,False,-1.89,2019-02-16,False,115.72,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2019-09-04,cycle-2018,10647.04,0.55395,2018-12-14,264,False,-33.71,2019-11-24,True,-29.13,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2020-04-16,cycle-2018,7101.26,0.55546,2018-12-14,489,False,-2.83,2020-04-21,False,29.5,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2021-06-23,cycle-2022,33684.88,0.56944,2022-11-21,-516,False,-11.42,2021-07-20,False,20.85,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2021-09-22,cycle-2022,43599.05,0.50908,2022-11-21,-425,False,-5.88,2021-09-28,False,12.27,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2022-08-20,cycle-2022,21143.94,0.52662,2022-11-21,-93,False,-24.74,2022-11-09,True,-21.06,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2023-02-25,cycle-2022,23163.05,0.55369,2022-11-21,96,False,-12.73,2023-03-10,False,15.37,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2023-09-17,cycle-2022,26538.09,0.551,2022-11-21,300,False,-1.05,2023-09-26,False,59.23,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2024-09-06,cycle-2022,53997.96,0.56888,2022-11-21,655,False,0.37,2024-09-07,False,79.73,False,True
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2026-01-18,cycle-2026,93649.97,0.57241,2022-11-21,1154,False,-32.9,2026-02-05,True,-19.13,False,False
+cdd_mult_ma,unit-weighted,10.0,full,0.5783,2026-04-19,cycle-2026,73834.83,0.47394,2022-11-21,1245,False,-20.82,2026-06-30,True,-11.83,True,False
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2013-06-02,cycle-2015,122.4,0.68344,2011-11-18,562,False,-43.88,2013-07-05,True,12.03,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2013-09-12,cycle-2015,135.93,0.69638,2015-01-14,-489,False,-10.29,2013-10-04,False,551.18,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2014-01-20,cycle-2015,826.13,0.68928,2015-01-14,-359,False,-55.92,2014-04-10,True,-39.6,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2014-04-21,cycle-2015,493.96,0.61327,2015-01-14,-268,False,-13.13,2014-04-27,False,26.42,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2014-07-21,cycle-2015,620.15,0.46857,2015-01-14,-177,False,-48.45,2014-10-05,True,-37.45,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2014-11-04,cycle-2015,329.68,0.59235,2015-01-14,-71,False,-45.86,2015-01-14,True,-27.54,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2015-05-23,cycle-2015,238.83,0.56172,2015-01-14,129,False,-7.35,2015-08-18,False,-2.42,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2018-03-06,cycle-2018,10848.89,0.61657,2018-12-14,-283,False,-38.02,2018-04-06,True,-30.84,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2018-06-05,cycle-2018,7624.11,0.44635,2018-12-14,-192,False,-22.43,2018-06-28,True,-4.69,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2018-09-27,cycle-2018,6687.79,0.51381,2018-12-14,-78,False,-50.94,2018-12-14,True,-41.47,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2021-07-03,cycle-2022,34685.09,0.47528,2022-11-21,-506,False,-13.98,2021-07-20,False,38.8,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2022-08-20,cycle-2022,21143.94,0.52662,2022-11-21,-93,False,-24.74,2022-11-09,True,-21.06,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2023-02-25,cycle-2022,23163.05,0.55369,2022-11-21,96,False,-12.73,2023-03-10,False,15.37,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2023-08-27,cycle-2022,26103.66,0.61374,2022-11-21,279,False,-3.54,2023-09-11,False,44.86,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2024-09-04,cycle-2022,58007.43,0.57921,2022-11-21,653,False,-6.91,2024-09-06,False,65.28,False,True
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2026-01-08,cycle-2026,91031.74,0.64947,2022-11-21,1144,False,-30.97,2026-02-05,True,-21.91,False,False
+cdd_mult_ma,unit-weighted,10.0,trailing,trailing p10,2026-04-09,cycle-2026,71797.32,0.4843,2022-11-21,1235,False,-18.58,2026-06-30,False,-13.23,False,False
+price_ratio,HARGA MURNI,5.0,full,0.5611,2011-11-14,cycle-2011,2.21,0.55793,2011-11-18,-4,True,-7.04,2011-11-18,False,150.17,False,True
+price_ratio,HARGA MURNI,5.0,full,0.5611,2015-01-20,cycle-2015,211.86,0.56092,2015-01-14,6,True,2.26,2015-02-05,False,5.97,False,True
+price_ratio,HARGA MURNI,5.0,full,0.5611,2018-12-09,cycle-2018,3635.35,0.55768,2018-12-14,-5,True,-9.75,2018-12-14,False,9.64,False,True
+price_ratio,HARGA MURNI,5.0,full,0.5611,2022-07-01,cycle-2022,19252.16,0.5594,2022-11-21,-143,False,-3.95,2022-09-21,False,1.77,False,True
+price_ratio,HARGA MURNI,5.0,full,0.5611,2022-09-30,cycle-2022,19424.37,0.52461,2022-11-21,-52,True,-18.79,2022-11-21,False,-14.33,False,True
+price_ratio,HARGA MURNI,5.0,trailing,trailing p5,2014-10-25,cycle-2015,345.56,0.64081,2015-01-14,-81,False,-48.35,2015-01-14,True,-32.48,False,True
+price_ratio,HARGA MURNI,5.0,trailing,trailing p5,2015-01-24,cycle-2015,249.03,0.54308,2015-01-14,10,True,-13.0,2015-02-05,False,-7.19,False,True
+price_ratio,HARGA MURNI,5.0,trailing,trailing p5,2018-12-06,cycle-2018,3497.32,0.58547,2018-12-14,-8,True,-6.18,2018-12-14,False,11.98,False,True
+price_ratio,HARGA MURNI,5.0,trailing,trailing p5,2022-07-02,cycle-2022,19232.36,0.5512,2022-11-21,-142,False,-3.86,2022-09-21,False,1.0,False,True
+price_ratio,HARGA MURNI,5.0,trailing,trailing p5,2022-10-01,cycle-2022,19309.01,0.52498,2022-11-21,-51,True,-18.31,2022-11-21,False,-14.0,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2011-11-05,cycle-2011,2.97,0.63116,2011-11-18,-13,True,-30.99,2011-11-18,True,100.64,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2014-10-26,cycle-2015,353.17,0.63736,2015-01-14,-80,False,-49.46,2015-01-14,True,-29.49,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2015-01-25,cycle-2015,254.67,0.53974,2015-01-14,11,True,-14.93,2015-02-05,False,-11.14,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2015-04-26,cycle-2015,219.99,0.59426,2015-01-14,102,False,1.24,2015-06-01,False,31.56,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2018-11-30,cycle-2018,4031.0,0.63492,2018-12-14,-14,True,-18.6,2018-12-14,False,-5.9,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2019-03-01,cycle-2018,3897.88,0.58653,2018-12-14,77,False,-2.6,2019-03-04,False,111.79,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2022-06-20,cycle-2022,20558.63,0.63299,2022-11-21,-154,False,-8.6,2022-09-06,False,-5.54,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2022-09-19,cycle-2022,19543.36,0.52953,2022-11-21,-63,False,-19.28,2022-11-21,False,-14.35,False,True
+price_ratio,HARGA MURNI,10.0,full,0.6375,2022-12-19,cycle-2022,16441.57,0.57551,2022-11-21,28,True,0.58,2022-12-31,False,70.57,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2014-10-09,cycle-2015,363.68,0.71319,2015-01-14,-97,False,-27.38,2015-01-04,True,-18.04,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2015-01-08,cycle-2015,283.46,0.62066,2015-01-14,-6,True,-37.03,2015-01-14,True,-13.43,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2015-04-13,cycle-2015,224.73,0.61983,2015-01-14,89,False,-2.46,2015-04-14,False,38.55,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2018-11-30,cycle-2018,4031.0,0.63492,2018-12-14,-14,True,-18.6,2018-12-14,False,-5.9,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2019-03-01,cycle-2018,3897.88,0.58653,2018-12-14,77,False,-2.6,2019-03-04,False,111.79,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2022-05-29,cycle-2022,29453.88,0.7256,2022-11-21,-176,False,-35.58,2022-06-18,True,-31.97,False,True
+price_ratio,HARGA MURNI,10.0,trailing,trailing p10,2022-08-28,cycle-2022,19558.41,0.56495,2022-11-21,-85,False,-19.35,2022-11-21,False,-15.88,False,True

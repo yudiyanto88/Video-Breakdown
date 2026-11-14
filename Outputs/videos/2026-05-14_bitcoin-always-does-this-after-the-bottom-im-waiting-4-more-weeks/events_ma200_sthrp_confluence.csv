@@ -1,0 +1,3 @@
+cycle,event_date,zone,price,ma200,sth_rp,gap_at_gate_pct,confluence,outcome,hari_ke_gagal,ret_30d_pct,ret_90d_pct,price_vs_sth_pct
+2013-15,2015-06-29,Z1b,256.67,252.54,248.68,1.5,KETAT <=5%,BREAK-TAHAN,,13.1,-9.3,103.2
+2013-15,2015-10-06,Z1,246.89,246.31,247.01,0.28,KETAT <=5%,DITOLAK,1.0,56.9,75.6,99.9

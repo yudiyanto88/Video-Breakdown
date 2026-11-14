@@ -1,0 +1,31 @@
+=== (a) Hari per zona v2 per cycle ===
+scope,days,days_ZC,pct_ZC,days_ZD,pct_ZD,days_Z1,pct_Z1,days_Z1b,pct_Z1b,days_Z2,pct_Z2,days_Z2t,pct_Z2t,days_Z3,pct_Z3,days_Z4,pct_Z4,days_Z5,pct_Z5
+S0 pra-2013 (SUPLEMEN),634,89,14.04,74,11.67,28,4.42,30,4.73,10,1.58,69,10.88,292,46.06,42,6.62,0,0.0
+S1 2013-2015,744,37,4.97,297,39.92,0,0.0,0,0.0,0,0.0,0,0.0,306,41.13,88,11.83,16,2.15
+S2 2015-2018,1431,42,2.94,303,21.17,186,13.0,60,4.19,15,1.05,17,1.19,457,31.94,108,7.55,243,16.98
+S3 2018-2022,1437,132,9.19,473,32.92,62,4.31,6,0.42,51,3.55,29,2.02,336,23.38,123,8.56,225,15.66
+S4 2022-now (BELUM SELESAI),1332,0,0.0,477,35.81,50,3.75,2,0.15,28,2.1,34,2.55,278,20.87,244,18.32,219,16.44
+TOTAL 2011-02-09..2026-07-15,5578,300,5.38,1624,29.11,326,5.84,98,1.76,104,1.86,149,2.67,1669,29.92,605,10.85,703,12.6
+
+=== (b) Hari per level k4_count per cycle ===
+scope,days,days_k4count_0,days_k4count_1,days_k4count_2,days_k4count_3,days_k4count_4,days_k4_main,days_k4_noz1,days_k4_active,days_pcvdd_le1
+S0 pra-2013 (SUPLEMEN),634,492,134,5,3,0,0,0,0,0
+S1 2013-2015,744,695,40,8,1,0,0,1,1,1
+S2 2015-2018,1431,1120,280,24,7,0,7,7,14,0
+S3 2018-2022,1437,1236,146,39,16,0,21,6,27,2
+S4 2022-now (BELUM SELESAI),1332,1263,21,44,4,0,48,0,48,0
+
+=== (c) Lantai waktu per cycle ===
+scope,peak_expost,floor_start,floor_stop,floor_days_expost,floor_start_causal,floor_days_causal
+S0 pra-2013 (SUPLEMEN),2011-06-08,2012-03-04,2012-03-06,1,2012-03-04,1
+S1 2013-2015,2013-11-29,2014-10-04,2015-01-14,36,2014-10-04,36
+S2 2015-2018,2017-12-16,2018-11-19,2018-12-15,26,2018-11-19,26
+S3 2018-2022,2021-11-08,2022-08-19,2022-11-21,90,2022-08-19,90
+S4 2022-now (BELUM SELESAI),2025-10-06,-,-,0,-,0
+
+=== (d) Kapasitas sizing per bear ===
+scope,bear_start,bear_low,bear_days,deploy_days,capacity_used_at_low_pct,capacity_used_end_pct,exhausted_before_low,exhaust_date,modeB_used_pct,ongoing
+S1 2013-2015,2013-11-29,2015-01-14,412,37,53.4,53.4,False,,53.3,False
+S2 2015-2018,2017-12-16,2018-12-14,365,27,7.6,8.4,False,,8.1,False
+S3 2018-2022,2021-11-08,2022-11-21,379,91,82.4,82.4,False,,79.8,False
+S4 2022-now (BELUM SELESAI),2025-10-06,2026-06-30,283,0,0.0,0.0,False,,0.0,True

@@ -1,0 +1,25 @@
+series,weighting,pctl,mode,n_events,hits,precision_pct,lows_recalled,n_fail_dd20,n_usable,fail_rate_pct,median_dd90_pct
+vdd_mult_ma,VALUE-weighted,5.0,full,11,4,36.4,4,3,11,27.3,-14.69
+vdd_mult_ma,VALUE-weighted,10.0,full,14,5,35.7,4,4,14,28.6,-11.56
+vdd_multiple,VALUE-weighted,5.0,full,20,4,20.0,4,9,20,45.0,-17.33
+vdd_multiple,VALUE-weighted,10.0,full,31,4,12.9,4,10,31,32.3,-14.33
+sacdd_ma30,unit-weighted,5.0,full,15,2,13.3,2,5,15,33.3,-7.35
+sacdd_ma30,unit-weighted,10.0,full,20,2,10.0,2,7,20,35.0,-9.62
+sacdd_ma900,unit-weighted,5.0,full,4,0,0.0,0,1,4,25.0,-8.97
+sacdd_ma900,unit-weighted,10.0,full,8,0,0.0,0,1,8,12.5,-3.99
+cdd_mult_ma,unit-weighted,5.0,full,7,0,0.0,0,5,7,71.4,-24.93
+cdd_mult_ma,unit-weighted,10.0,full,18,0,0.0,0,9,18,50.0,-17.6
+price_ratio,HARGA MURNI,5.0,full,5,4,80.0,4,0,5,0.0,-7.04
+price_ratio,HARGA MURNI,10.0,full,9,4,44.4,4,2,9,22.2,-14.93
+vdd_mult_ma,VALUE-weighted,5.0,trailing,8,2,25.0,2,2,8,25.0,-12.8
+vdd_mult_ma,VALUE-weighted,10.0,trailing,10,3,30.0,3,3,10,30.0,-11.22
+vdd_multiple,VALUE-weighted,5.0,trailing,18,4,22.2,3,9,18,50.0,-18.98
+vdd_multiple,VALUE-weighted,10.0,trailing,28,3,10.7,3,9,28,32.1,-14.07
+sacdd_ma30,unit-weighted,5.0,trailing,8,0,0.0,0,1,8,12.5,-8.78
+sacdd_ma30,unit-weighted,10.0,trailing,12,0,0.0,0,2,12,16.7,-7.73
+sacdd_ma900,unit-weighted,5.0,trailing,4,0,0.0,0,0,4,0.0,-5.44
+sacdd_ma900,unit-weighted,10.0,trailing,6,0,0.0,0,0,6,0.0,-3.99
+cdd_mult_ma,unit-weighted,5.0,trailing,8,0,0.0,0,5,8,62.5,-24.26
+cdd_mult_ma,unit-weighted,10.0,trailing,15,0,0.0,0,8,15,53.3,-22.43
+price_ratio,HARGA MURNI,5.0,trailing,5,3,60.0,3,1,5,20.0,-13.0
+price_ratio,HARGA MURNI,10.0,trailing,7,2,28.6,2,3,7,42.9,-19.35

@@ -1,0 +1,19 @@
+kandidat,cycle,signal_date,price,lag_vs_reclaim_hari,maxdd_90d,ret_90d,verdict,censored_90d
+(i)   close>STH RP >=21 hari,2011,2012-01-20,6.49,-288,-34.9,-20.7,MISS,False
+(i)   close>STH RP >=21 hari,2011,2012-09-09,11.03,-55,-7.8,21.7,MISS,False
+(i)   close>STH RP >=21 hari,2013,2014-01-08,825.91,-643,-47.1,-45.3,MISS,False
+(i)   close>STH RP >=21 hari,2013,2014-07-17,623.6,-453,-48.7,-36.8,MISS,False
+(i)   close>STH RP >=21 hari,2013,2015-07-17,280.04,-88,-24.8,-9.0,MISS,False
+(i)   close>STH RP >=21 hari,2017,2019-04-17,5248.35,20,0.0,81.8,HIT,False
+(i)   close>STH RP >=21 hari,2021,2023-01-31,23132.64,20,-12.6,21.5,HIT,False
+(ii)  close>STH RP >=3 hari & slope30 STH RP > 0,2011,2012-03-28,4.79,-220,-2.0,34.1,MISS,False
+(ii)  close>STH RP >=3 hari & slope30 STH RP > 0,2011,2012-11-05,10.74,2,0.7,91.7,HIT,False
+(ii)  close>STH RP >=3 hari & slope30 STH RP > 0,2013,2013-12-21,600.45,-661,-11.2,-4.9,MISS,False
+(ii)  close>STH RP >=3 hari & slope30 STH RP > 0,2013,2015-08-11,271.91,-63,-22.6,39.9,MISS,False
+(iii) (i) DAN close > 200DMA,2011,2012-01-20,6.49,-288,-34.9,-20.7,MISS,False
+(iii) (i) DAN close > 200DMA,2011,2012-09-09,11.03,-55,-7.8,21.7,MISS,False
+(iii) (i) DAN close > 200DMA,2013,2014-01-08,825.91,-643,-47.1,-45.3,MISS,False
+(iii) (i) DAN close > 200DMA,2013,2014-07-17,623.6,-453,-48.7,-36.8,MISS,False
+(iii) (i) DAN close > 200DMA,2013,2015-07-17,280.04,-88,-24.8,-9.0,MISS,False
+(iii) (i) DAN close > 200DMA,2017,2019-04-17,5248.35,20,0.0,81.8,HIT,False
+(iii) (i) DAN close > 200DMA,2021,2023-01-31,23132.64,20,-12.6,21.5,HIT,False
